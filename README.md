@@ -328,7 +328,7 @@ Grâce à `service password-encryption`, les mots de passe y apparaissent chiffr
 
 ---
 
-## 10. Ce que j'ai appris
+## 10. Ce que nous appris  
 
 - Segmenter un réseau avec des **VLAN** et relier les VLAN avec un **trunk** et le **routage inter-VLAN**.
 - Configurer un service **DHCP** et comprendre les plages d'exclusion et les baux.
