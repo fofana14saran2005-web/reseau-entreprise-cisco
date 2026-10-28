@@ -22,7 +22,7 @@ L'objectif est de construire le réseau d'une petite entreprise qui a deux servi
 9. [Difficultés rencontrées et solutions](#9-difficultés-rencontrées-et-solutions)
 10. [Ce que j'ai appris](#10-ce-que-jai-appris)
 
-## Fichiers du dépôt
+## Fichiers du  dépôt
 
 | Fichier | Contenu |
 | --- | --- |
